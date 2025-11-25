@@ -4,7 +4,7 @@ A smooth, native-like mobile calendar component built with Next.js and TypeScrip
 
 ## 🚀 Live Demo
 
-[View on Vercel](#) _(will be added after deployment)_
+**[View Live Demo on Vercel →](https://mobile-date-picker1.vercel.app/)**
 
 ## 🎯 Technical Decisions & Implementation
 
